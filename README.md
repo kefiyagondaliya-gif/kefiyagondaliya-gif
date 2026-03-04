@@ -1,45 +1,35 @@
 # Hi 👋 I'm Kefiya Gondaliya
 
-### 🚀 MERN Stack Developer |
+### 🚀 MERN Stack Developer | Open to Remote Opportunities
 
-I am a passionate full stack developer who builds scalable web applications using modern technologies.  
-Currently improving my skills in React.js, Node.js, MongoDB, and API development.
+I build scalable and user-friendly web applications using the MERN stack.  
+Passionate about backend architecture, API development, and creating clean UI experiences.
 
 ---
 
 ## 🛠 Tech Stack
-- 💻 JavaScript
+- 💻 JavaScript (ES6+)
 - ⚛️ React.js
 - 🌐 Node.js
+- 🚀 Express.js
 - 🗄 MongoDB
-- 🎨 HTML, CSS
-- 🔌 REST APIs
+- 🔐 JWT Authentication
+- 🎨 HTML5, CSS3
 
 ---
 
-## 📌 Currently Working On
-- Improving full stack development skills
-- Building real-world MERN projects
-- Preparing for developer roles
+## 📌 Featured Project
+### 🛒 Zaynah E-commerce
+Full-stack MERN e-commerce application with authentication, admin panel, cart, wishlist, and secure checkout functionality.
+
+---
+
+## 📈 Currently Focused On
+- Writing clean and scalable backend code
+- Improving system design fundamentals
+- Building production-ready MERN applications
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/kefiya-gondaliya-40a744369
-
-
-
-<!--
-**kefiyagondaliya-gif/kefiyagondaliya-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔗 LinkedIn: https://www.linkedin.com/in/kefiya-gondaliya-40a744369
