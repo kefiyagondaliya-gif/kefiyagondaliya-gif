@@ -1,6 +1,6 @@
 # Hi 👋 I'm Kefiya Gondaliya
 
-### 🚀 MERN Stack Developer | Open to Remote Opportunities
+### 🚀 MERN Stack Developer | BCA Student | Open to Remote Opportunities
 
 I build scalable and user-friendly web applications using the MERN stack.  
 Passionate about backend architecture, API development, and creating clean UI experiences.
