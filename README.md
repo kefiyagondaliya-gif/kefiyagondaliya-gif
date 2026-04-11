@@ -1,4 +1,4 @@
-# Hi 👋 I'm Kefiya Gondaliya
+# Hi 👋 I'm Kaifiya Gondaliya
 
 ### 🚀 MERN Stack Developer | Open to Remote Opportunities
 
