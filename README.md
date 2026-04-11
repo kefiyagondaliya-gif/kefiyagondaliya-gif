@@ -1,32 +1,30 @@
-<h1 align="center">Kefiya Gondaliya</h1>
+<h1 align="center">Kaifiya Gondaliya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0A66C2&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+(MERN);Building+Scalable+Web+Applications;Real-Time+Systems+%26+Clean+Architecture" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=0A66C2&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Building+Scalable+Web+Applications;Real-Time+Systems+%26+Clean+Architecture" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaifiya-gondaliya-40a744369/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-MERN%20Stack-black?style=for-the-badge"/>
 </p>
 
 ---
 
 ## Engineering Profile
 
-Full Stack Developer specializing in the MERN stack, focused on building scalable, production-ready applications with clean architecture and real-time capabilities.
+MERN Stack Developer focused on building scalable, production-ready web applications with clean architecture and real-time capabilities.
 
-I prioritize performance, maintainability, and user-centric design while continuously improving backend systems and system design skills.
+I work on designing efficient backend systems, responsive frontends, and seamless user experiences while continuously improving system design and performance.
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,git,postman,vscode" />
-
 </p>
 
 ---
@@ -35,30 +33,30 @@ I prioritize performance, maintainability, and user-centric design while continu
 
 ### Real-Time Chat Platform
 
-* Built with Socket.io for bidirectional communication
-* Presence tracking, typing indicators, media sharing
-* Designed for scalability and smooth UX
+* Built with Socket.io for real-time communication
+* Features: presence tracking, typing indicators, media sharing
+* Focused on performance and smooth UX
 
 ### E-Commerce System
 
 * Authentication & role-based access
-* Product management & order workflows
-* Clean backend structure with REST APIs
+* Product and order management
+* RESTful backend architecture
 
 ### Analytics Dashboard
 
-* Data visualization & responsive UI
-* Secure authentication flow
+* Data visualization with responsive UI
+* Secure authentication system
 * Optimized frontend performance
 
 ---
 
 ## Architectural Focus
 
-* Scalable backend design
-* RESTful API development
+* Scalable backend systems
+* REST API design
 * Real-time data handling
-* Clean and modular code structure
+* Clean and maintainable code
 
 ---
 
