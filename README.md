@@ -32,4 +32,4 @@ Full-stack MERN e-commerce application with authentication, admin panel, cart, w
 ---
 
 ## 📫 Connect With Me
-- 🔗 LinkedIn: https://www.linkedin.com/in/kefiya-gondaliya-40a744369
+- 🔗 LinkedIn: https://www.linkedin.com/in/kaifiya-gondaliya-40a744369
